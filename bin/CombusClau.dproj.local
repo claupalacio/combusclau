@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/11/07 16:34:49.000.140,=C:\Users\Iraildo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/26 20:15:32.000.582,=C:\Users\Iraildo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/26 20:20:51.000.076,=C:\Users\Iraildo\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/26 20:23:48.000.106,C:\Users\Iraildo\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\CombusClau\bin\uDM.pas</Transaction>
+    <Transaction>2021/02/26 20:23:48.000.106,C:\Users\Iraildo\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\CombusClau\bin\uDM.dfm</Transaction>
+    <Transaction>2021/02/26 20:23:56.000.495,C:\Users\Iraildo\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\CombusClau\bin\ufrmPrincipal.pas</Transaction>
+    <Transaction>2021/02/26 20:23:56.000.495,C:\Users\Iraildo\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\CombusClau\bin\ufrmPrincipal.dfm</Transaction>
+    <Transaction>2021/02/26 20:24:05.000.170,C:\Users\Iraildo\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\CombusClau\bin\CombusClau.dproj</Transaction>
+    <Transaction>2021/02/26 23:20:44.114,=C:\CombusClau\bin\Unit1.pas</Transaction>
+    <Transaction>2021/02/26 23:28:32.276,C:\CombusClau\bin\ufrmRelAbastecimento.dfm=C:\CombusClau\bin\Unit1.dfm</Transaction>
+    <Transaction>2021/02/26 23:28:32.276,C:\CombusClau\bin\ufrmRelAbastecimento.pas=C:\CombusClau\bin\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
